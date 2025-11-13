@@ -1,0 +1,34 @@
+@"
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+.venv/
+venv/
+pip-wheel-metadata/
+*.egg-info/
+dist/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# SQLite DB (keep a sample DB only if you want; default ignore)
+src/data/*.db
+
+# dotenv
+.env
+
+# logs
+*.log
+
+# streamlit cache
+.streamlit/
+
+"@ > .gitignore
