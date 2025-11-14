@@ -4,8 +4,6 @@
 
 A compact, end-to-end autonomous trading project that demonstrates multi-agent orchestration (news → sentiment → prices → decision → execution), portfolio & account accounting, Telegram notifications, and a production-style Streamlit dashboard. The repo supports mock execution, Gemini sandbox (HMAC signed), and can be switched to live exchange keys after thorough sandbox testing.
 
-This README is written from the code you provided: agents, DB schema & helpers, execution/portfolio/account logic, Streamlit UI, and test helpers.
-
 ---
 
 ## Table of Contents
