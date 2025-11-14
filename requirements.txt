@@ -1,0 +1,11 @@
+langchain         # LangGraph lives in LangChain docs; you'll use LangGraph APIs
+duckduckgo-search
+requests
+python-dotenv
+pandas
+numpy
+vaderSentiment
+sqlalchemy
+streamlit
+plotly
+python-telegram-bot
