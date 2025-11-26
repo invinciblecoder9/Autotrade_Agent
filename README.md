@@ -80,12 +80,10 @@ DuckDuckGo (ddgs)  AlphaVantage / yfinance / CoinGecko
 
 ## Tech stack & APIs used
 
-- **Python 3.12** (recommended)
+- **Python 3.12**
 - **ddgs** (DuckDuckGo search) — news agent
 - **vaderSentiment** — sentiment scoring
 - **AlphaVantage** (`ALPHAVANTAGE_KEY`) — primary quote provider
-- **yfinance** — fallback quote provider (good for crypto via mapping)
-- **CoinGecko** — fallback crypto price provider
 - **Gemini API** — sandbox/live order execution (HMAC-signed)
 - **SQLite** — persistence (local file `src/data/trades.db`)
 - **Streamlit + Plotly** — dashboard
