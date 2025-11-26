@@ -1,4 +1,4 @@
-# 🚀 Autonomous AI Trading Agent
+# Autonomous AI Trading Agent
 
 **News-aware • Sentiment-driven • Autonomous execution • Streamlit dashboard**
 
